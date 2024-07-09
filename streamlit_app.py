@@ -130,7 +130,7 @@ def add_attendance(name):
 
 # Streamlit app
 def main():
-    st.title("Attendance Management System")
+    st.title("Student Smart Attendance System")
 
     # Sidebar
     st.sidebar.header("Navigation")
